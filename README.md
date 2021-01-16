@@ -1,1 +1,3 @@
-# snake_game_using_python
+# Snake Game using Python
+
+A simple yet interesting snake game using python
